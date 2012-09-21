@@ -1,5 +1,5 @@
 require 'spec_helper'
-require 'delegate'
+
 
 describe Hashie::Mash do
   before(:each) do

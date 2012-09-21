@@ -1,5 +1,5 @@
-require 'hashie/hash'
-require 'set'
+
+
 
 module Hashie
   # A Dash is a 'defined' or 'discrete' Hash, that is, a Hash

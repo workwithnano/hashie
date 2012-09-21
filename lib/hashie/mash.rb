@@ -1,4 +1,4 @@
-require 'hashie/hash'
+
 
 module Hashie
   # Mash allows you to create pseudo-objects that have method-like

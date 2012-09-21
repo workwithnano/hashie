@@ -1,5 +1,3 @@
-require 'hashie/hash'
-
 module Hashie
   #
   # A Clash is a "Chainable Lazy Hash". Inspired by libraries such as Arel,

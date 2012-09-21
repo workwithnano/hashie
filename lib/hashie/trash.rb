@@ -1,4 +1,4 @@
-require 'hashie/dash'
+
 
 module Hashie
   # A Trash is a 'translated' Dash where the keys can be remapped from a source
